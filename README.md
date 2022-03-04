@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning AWS, MS Azure, Python, Dockers, Ansible, Terraform, Git, Bash, Linux Distro
 - 👯 I’m looking to collaborate on cool DevOps tools and skills
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: Check out my <a href="https://www.linkedin.com/in/abdulrahim79/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" height=25></a>
+- 📫 How to reach me: Check out my <a href="https://www.linkedin.com/in/abdulrahim79/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" height=25></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Psstt! I am half human... ;) Just kidding... I think...
